@@ -56,7 +56,7 @@ Below are all the visualizations extracted from your notebook.
 ## 🧍 Demographics & Distribution Plots  
 
 ### **Gender Distribution**
-![Gender Distribution]([images](https://github.com/latha2024/Sleep-health-lifestyle-dataset/blob/main/)/image_16_0.png)
+![Gender Distribution]([images]image_16_0.png)
 
 ---
 
