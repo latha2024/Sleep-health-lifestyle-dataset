@@ -1,4 +1,4 @@
-/mnt/data/images/
+
 # 💤 Sleep Health & Lifestyle Analysis  
 Comprehensive Exploratory Data Analysis (EDA) on Sleep Health and Lifestyle dataset to understand how lifestyle habits, physical activity, stress, BMI, and vital parameters affect sleep quality and sleep disorders.
 
@@ -56,7 +56,7 @@ Below are all the visualizations extracted from your notebook.
 ## 🧍 Demographics & Distribution Plots  
 
 ### **Gender Distribution**
-![Gender Distribution](images/image_16_0.png)
+![Gender Distribution]([images](https://github.com/latha2024/Sleep-health-lifestyle-dataset/blob/main/)/image_16_0.png)
 
 ---
 
