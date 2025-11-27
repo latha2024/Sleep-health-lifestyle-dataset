@@ -56,7 +56,7 @@ Below are all the visualizations extracted from your notebook.
 ## 🧍 Demographics & Distribution Plots  
 
 ### **Gender Distribution**
-![Gender Distribution]([images]C:\Users\cvmna\Downloads\sleep_project_bundle\images\image_16_0.png)
+![Gender Distribution](images/image_16_0.png)
 
 ---
 
