@@ -171,8 +171,8 @@ Below are all remaining extracted charts for completeness:
 ## ▶️ How to Run This Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/latha2024/Sleep-health-lifestyle-dataset/.git
+cd Sleep-health-lifestyle-dataset
 pip install -r requirements.txt
 jupyter notebook
 
